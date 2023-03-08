@@ -1,6 +1,6 @@
 # flutter_advanced_calculator
 
-A new Flutter project.
+A new flutter project.
 
 ## Getting Started
 
